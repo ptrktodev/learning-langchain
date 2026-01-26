@@ -3,10 +3,13 @@ __pycache__/
 *.py[codz]
 *$py.class
 .vscode/
+learn-langchain-udemy/
 uv.lock
 readme.md
 .python-version
 message_store.db
+credentials.json
+token.json
 
 # C extensions
 *.so
